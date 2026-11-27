@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
 <title id="title">Conradicle public GitHub snapshot</title>
-<desc id="desc">5 original public repositories, 5 stars, 3 followers. Updated 2026-11-26 UTC. Language distribution by bytes across original public repositories.</desc>
+<desc id="desc">5 original public repositories, 5 stars, 3 followers. Updated 2026-11-27 UTC. Language distribution by bytes across original public repositories.</desc>
 <style>text{font-family:Consolas,'Liberation Mono',monospace;fill:#eaf0f2}.label{font-size:11px;letter-spacing:2px;fill:#b6c5cc}.value{font-size:42px}.small{font-size:12px;fill:#b6c5cc}</style>
 <rect x=".5" y=".5" width="899" height="299" rx="12" fill="#0c141c" stroke="#35464f"/>
-<text x="36" y="35" class="label">PUBLIC SIGNAL / @CONRADICLE</text><text x="864" y="35" text-anchor="end" class="small">2026-11-26 UTC</text>
+<text x="36" y="35" class="label">PUBLIC SIGNAL / @CONRADICLE</text><text x="864" y="35" text-anchor="end" class="small">2026-11-27 UTC</text>
 <text x="36" y="102" class="value">5</text><text x="36" y="130" class="label">PUBLIC REPOS</text>
 <text x="340" y="102" class="value">5</text><text x="340" y="130" class="label">REPOSITORY STARS</text>
 <text x="650" y="102" class="value">3</text><text x="650" y="130" class="label">FOLLOWERS</text>
